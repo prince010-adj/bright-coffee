@@ -46,17 +46,10 @@ for the presentation of Data and insights.
 |Product Category| The broad category of the product (e.g., Tea, Drinking Chocolate)|
 |Product Type |The type or subtype of the product within the category (e.g., Hot chocolate, Brewed Chai tea)|
 |Product Detail |The specific name or description of the product sold (e.g., Dark chocolate Rg, Spicy Eye Opener Chai Rg)|
-
 |Store Location |The physical location of the store where the sales occurred|
-
 |Transaction Date| The date when the sales transactions were made (format: DD/MM/YYYY)|
-
 |Day Name |The day of the week corresponding to the transaction date (e.g., Sun, Mon)|
-
 |Month Name| The name of the month during which the transaction took place (e.g., Jan, Feb)|
-
 |Month ID |A unique identifier for the month in YYYYMM format (e.g., 202301 for January 2023)|
-
 |Time Bucket| The time segment of the day when the transaction occurred (e.g., morning, afternoon)|
-
 |Spending Bucket| A classification of total spending level for that transaction or group (e.g., low, medium, very high)|

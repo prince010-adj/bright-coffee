@@ -9,20 +9,23 @@ This project focuses on the Sales performance analysis of Bright's Coffee Shop, 
 
  **OBJECTIVES**
   This can be achieved by
-  -Data injection
-  -Data manipulation and cleaning
-  -Data Analysis
-  -Data Visualisation
-  -Data Presentation
+  * Data injection
+  * Data manipulation and cleaning
+  * Data Analysis
+  * Data Visualisation
+  * Data Presentation
 
 **TOOLS AND TECHNOLOGY**
 
 This Project was built with these tools and Technologies:
 
-Miro: Its a platform used for brainstorming ideas and planning the project.
-Microsoft Excel:  used to organise,analyse and visualize my data.
-Snowflake: Its a platform used for SQl coding.
-Microsoft Power point:  it platform
+* Miro: Its a platform used for brainstorming ideas and planning the project.
+
+* Microsoft Excel:  used to organise,analyse and visualize my data.
+
+* Snowflake: Its a platform used for SQl coding.
+
+* Microsoft Power point:  it platform
 for the presentation of Data and insights.
 
 **SUMMARY OF RESULTS AND INSIGHT**

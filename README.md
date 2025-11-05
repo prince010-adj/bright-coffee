@@ -42,7 +42,7 @@ for the presentation of Data and insights.
 |:----------|:----------:|
 |Number of Sales| The total number of individual transactions recorded for the product on a specific date and location|
 
-|Total Revenue |  The total revenue (in currency units) generated from the sales of the product|
+|Total Revenue|  The total revenue (in currency units) generated from the sales of the product|
 
 |Number of Units Sold| The total number of individual product units sold in the recorded transactions|
 
